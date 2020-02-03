@@ -4,5 +4,5 @@ Testing_Folder/training_dataframes/
 .env
 **/*.ipynb_checkpoints
 **/*.ipynb_checkpoints/
-#Testing_Folder/training_dataframes/.ipynb_checkpoints/
+Testing_Folder/training_dataframes/.ipynb_checkpoints/
 Project_2/
